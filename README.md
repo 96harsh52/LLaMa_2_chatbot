@@ -44,5 +44,27 @@ Contributions to the Medical Llama Chatbot project are welcome! If you find any 
 
 The Medical Llama Chatbot is a research and educational project and does not provide medical services. The developers and contributors are not liable for any consequences resulting from the use of this chatbot. Always consult a healthcare professional for medical concerns.
 
-
 Remember to customize the above description with actual details about your project, including the license you intend to use, any specific installation instructions or prerequisites, and any other unique features or considerations that your Medical Chatbot may have. Happy coding!
+
+
+
+# Refrance 
+
+1. Article for reading: - 
+   1.https://about.fb.com/news/2023/07/llama-2/
+   2.https://venturebeat.com/ai/llama-2-how-to-access-and-use-metas-versatile-open-source-chatbot-right-now/
+   3.https://ai.meta.com/llama/
+
+
+2. Request access: -
+
+   https://ai.meta.com/resources/models-and-libraries/llama-downloads/ 
+
+3. using hugging Face:-
+
+    https://huggingface.co/meta-llama 
+
+
+4. Use it locally: - 
+
+    https://colab.research.google.com/drive/10hD7sWJ1PkMYYW1IAz6rjzLczoJEoNm6?usp=sharing 
