@@ -2,6 +2,10 @@
 The Medical Llama Chatbot is an AI-powered conversational agent providing medical information and guidance. Leveraging LLama 2 7B model in local system(offline), it offers an interactive user experience for health-related queries.
 
 
+![viber_image_2023-07-26_20-07-47-905](https://github.com/96harsh52/LLaMa_2_chatbot/assets/36518896/5286d162-4172-4618-92db-2b606accd132)
+
+
+
 # Key Features:
 
 1. Natural Language Processing (NLP): The chatbot utilizes the advanced NLP capabilities of the LLama 2 7B model to understand and interpret user queries written in natural language, making the interaction more intuitive and human-like.
